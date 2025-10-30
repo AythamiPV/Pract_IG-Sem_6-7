@@ -6,6 +6,17 @@ Este proyecto es una **simulación 3D del Sistema Solar** utilizando **Three.js*
 
 ---
 
+## Video de Presentación
+
+Mira el video de presentación de este proyecto:
+
+<video width="640" height="360" controls>
+  <source src="Aythami_PV.mkv" type="video/mp4">
+  Tu navegador no soporta el elemento de video.
+</video>
+
+---
+
 ## Características
 
 - Visualización de **todos los planetas del Sistema Solar**: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno.  
