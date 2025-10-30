@@ -40,7 +40,7 @@ Este proyecto es una **simulación 3D del Sistema Solar** utilizando **Three.js*
 
 ## Tecnologías Utilizadas
 
-- [Three.js](https://threejs.org/) – Motor de gráficos 3D en JavaScript.  
+- Three.js – Motor de gráficos 3D en JavaScript.  
 - FlyControls – Para la cámara libre y vuelo por el espacio.  
 - OrbitControls – Para cámara fija con rotación y zoom.  
 - HTML, CSS y JavaScript moderno (ES6 Modules).  
