@@ -50,9 +50,13 @@ Este proyecto es una **simulación 3D del Sistema Solar** utilizando **Three.js*
 ## Estructura del Proyecto
 
 ├── src/
+
 │ ├── index.html # Estructura base y header de controles
+
 │ ├── styles.css # Estilos del canvas y header fijo
+
 │ └── script.js # Lógica de Three.js, planetas y animaciones
+
 └── textures/ # Texturas para planetas, lunas, anillos y fondo
 
 
