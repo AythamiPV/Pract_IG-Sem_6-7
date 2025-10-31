@@ -2,7 +2,7 @@
 
 Este proyecto es una **simulación 3D del Sistema Solar** utilizando **Three.js**, donde puedes explorar los planetas, sus lunas y cinturones de asteroides con **cámaras libres y fijas**, además de activar o detener las órbitas de los cuerpos celestes.
 
-🔗 **Enlace al proyecto en CodeSandbox:** [https://codesandbox.io/p/sandbox/ig2526-s6-forked-5cykpl](https://codesandbox.io/p/sandbox/ig2526-s6-forked-5cykpl)
+🔗 **Enlace al proyecto en CodeSandbox:** [CodeSandbox](https://codesandbox.io/p/sandbox/ig2526-s6-forked-5cykpl)
 
 ---
 
@@ -72,7 +72,7 @@ Mira el video de presentación de este proyecto:
 
 ## Cómo usar
 
-1. Abre el proyecto en tu navegador desde CodeSandbox: [https://codesandbox.io/p/sandbox/ig2526-s6-forked-5cykpl](https://codesandbox.io/p/sandbox/ig2526-s6-forked-5cykpl)  
+1. Abre el proyecto en tu navegador desde CodeSandbox: [CodeSandbox](https://codesandbox.io/p/sandbox/ig2526-s6-forked-5cykpl)
 2. Explora el Sistema Solar con la cámara libre o fija.  
 3. Usa los botones del header para:
    - **Detener/activar órbitas**.  
