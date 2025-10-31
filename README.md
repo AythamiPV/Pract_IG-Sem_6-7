@@ -10,10 +10,7 @@ Este proyecto es una **simulación 3D del Sistema Solar** utilizando **Three.js*
 
 Mira el video de presentación de este proyecto:
 
-<video width="640" height="360" controls>
-  <source src="Aythami_PV.mkv" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
-</video>
+[Video](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/aythami_perez109_alu_ulpgc_es/EaJdAqoCwrpOiwhg8_Ac9p4Bdp7CsNBP9tdlfNZwkE1LZw?e=BrDNAB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ---
 
